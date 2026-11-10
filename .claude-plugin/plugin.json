@@ -1,0 +1,12 @@
+
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "revit-integration-plugin",
+  "displayName": "Revit Integration Plugin",
+  "version": "0.1.0",
+  "description": "A growing personal collection of Claude Code agents and skills.",
+  "author": {
+    "name": "Serdar Uludag"
+  },
+  "license": "MIT"
+}

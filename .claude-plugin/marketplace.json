@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "revit-integration-plugin",
+  "owner": {
+    "name": "Serdar Uludag"
+  },
+  "description": "Serdar's personal marketplace of Claude Code agents and skills.",
+  "plugins": [
+    {
+      "name": "revit-integration-plugin",
+      "source": "./",
+      "description": "A growing personal collection of Claude Code agents and skills."
+    }
+  ]
+}
